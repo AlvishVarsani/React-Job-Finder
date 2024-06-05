@@ -3,6 +3,8 @@
 
 Usage
 This project uses JSON-Server for a mock backend.
+![Screenshot 2024-06-05 102309](https://github.com/AlvishVarsani/React-Job-Finder/assets/112803697/09fbf3c7-d179-4623-9eff-58bf168ddfda)
+
 
 Install Dependencies
 npm install
